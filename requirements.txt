@@ -1,0 +1,7 @@
+pytesseract
+Pillow
+pandas
+openpyxl
+pytest
+opencv-python
+numpy

@@ -1,0 +1,57 @@
+
+PDF Document Organizer and Data Extractor Tool Development
+Data Extraction Posted Dec 12, 2025
+We are seeking a skilled developer to create a tool that can identify, reorganize, and rename PDF documents effectively. Additionally, the tool should have the capability to extract relevant data from these PDFs and compile it into a structured spreadsheet format. The ideal candidate will have experience in PDF manipulation, data extraction, and spreadsheet integration. This project aims to enhance document management efficiency and data accessibility.
+If this is completed successfully, automating the entry of this data into a complex software system will be the next phase. lessMore/Less about
+
+---
+
+Cover letter
+Hi Matt,
+
+I’ve built production systems that identify, organize, rename, and extract structured data from large sets of PDFs, including scanned documents with drawings and complex layouts. Your project is a very good fit for my background.:
+
+I’m a senior developer with strong experience in Python-based document processing, PDF analysis, OCR, and AI-assisted data extraction.
+
+For similar projects, I have:
+• Built tools that automatically analyze, classify, and rename PDFs based on their content
+• Extracted structured data from PDFs into Excel / Google Sheets–ready formats
+• Handled scanned PDFs, images, and mixed content using OCR and layout-aware parsing
+• Designed systems that scale and remain maintainable over time
+
+I focus on building reliable pipelines, not one-off scripts. That means:
+• Clear extraction rules
+• Validation and error handling
+• Clean, auditable spreadsheet outputs
+• Easy extension for future automation phases (which you mentioned as the next step)
+
+I’m also happy to offer a free technical specification or small proof of concept within 24 hours, so you can validate the approach and be confident before committing further.
+
+If this sounds aligned, I’d be happy to discuss:
+• PDF types and variability
+• Naming conventions and extraction rules
+• Spreadsheet structure and validation needs
+• Future integration with your software system
+
+Best regards,
+Nemanja
+
+Describe your recent experience with similar projects
+Recently, I worked on GetProvince.com, where I implemented a system very similar in complexity and scope to this project.
+
+The platform processes large volumes of architectural and infrastructure PDF documents, including:
+• Multi-page plans
+• Scanned drawings
+• Pages containing dimensions, symbols, and mixed text and image content
+
+My work included:
+• Automatically organizing and renaming PDF files based on extracted metadata
+• Extracting structured data from both text-based and scanned PDFs
+• Implementing OCR and image-based text detection for pages without embedded text
+• Analyzing documents page by page using AI models to understand page context
+• Creating embeddings for each page to identify similarities, duplicates, and related documents
+• Exporting normalized data into structured formats suitable for spreadsheets and downstream systems
+
+The end result was a fully automated pipeline that could interpret complex PDF content, normalize unstructured data, and prepare it for further automation and system integration.
+
+This experience directly maps to your requirements around PDF identification, reorganization, renaming, data extraction, and spreadsheet compilation. less

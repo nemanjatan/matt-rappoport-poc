@@ -1,0 +1,118 @@
+Matt Rappoport
+PDF Document Organizer and Data Extractor Tool Development
+Friday, Dec 12
+Nemanja Tanaskovic
+12:00 PM
+Hi Matt,
+
+
+
+I’ve built production systems that identify, organize, rename, and extract structured data from large sets of PDFs, including scanned documents with drawings and complex layouts. Your project is a very good fit for my background.:
+
+
+
+I’m a senior developer with strong experience in Python-based document processing, PDF analysis, OCR, and AI-assisted data extraction.
+
+
+
+For similar projects, I have:
+• Built tools that automatically analyze, classify, and rename PDFs based on their content
+• Extracted structured data from PDFs into Excel / Google Sheets–ready formats
+• Handled scanned PDFs, images, and mixed content using OCR and layout-aware parsing
+• Designed systems that scale and remain maintainable over time
+
+
+
+I focus on building reliable pipelines, not one-off scripts. That means:
+• Clear extraction rules
+• Validation and error handling
+• Clean, auditable spreadsheet outputs
+• Easy extension for future automation phases (which you mentioned as the next step)
+
+
+
+I’m also happy to offer a free technical specification or small proof of concept within 24 hours, so you can validate the approach and be confident before committing further.
+
+
+
+If this sounds aligned, I’d be happy to discuss:
+• PDF types and variability
+• Naming conventions and extraction rules
+• Spreadsheet structure and validation needs
+• Future integration with your software system
+
+
+
+Best regards,
+Nemanja
+
+View details
+MR
+Matt Rappoport
+12:00 PM
+Hey Nemanja - this sounds like you have some relevant experience here that could be helpful. Thank you.
+I will show you a sample pdf to give you a sense but they are generally finance agreements for the purchase of items. We need to pull the product and financial data and save the agreement along with some other associated documents (delivery receipts mostly). Then we enter the data into our loan software to bill the customer. The second stage is complex so would be automated only at a later date if at all.
+
+IMG_1805.png 
+IMG_1805.png
+Nemanja Tanaskovic
+12:04 PM
+Hi Matt,
+
+
+
+Thanks for sharing the context and the sample. That’s helpful.
+
+
+
+Based on what you described and the agreement shown, this is very much in scope for me. These finance agreements follow a fairly consistent structure, even when scanned or handwritten fields are involved, which makes them well suited for a structured extraction pipeline.
+
+
+
+For the first phase, I would focus on:
+1. Extracting key product details (items, quantity, make/model)
+2. Pulling financial data (APR, finance charge, amount financed, total payments, payment count, payment amount, totals)
+3.Capturing customer and co-buyer information
+4.Saving and linking the agreement PDF together with associated documents (e.g. delivery receipts)
+5.Exporting everything into a clean, structured format ready for entry into your loan software
+
+
+
+This can be done reliably even with scanned documents by combining OCR with layout-aware parsing, and adding validation so missing or unclear fields are flagged instead of silently failing.
+
+
+
+I completely agree that automating the second stage (direct entry into loan software) should come later, if at all. Designing the first phase cleanly will make that decision much easier down the line.
+
+
+
+If you’d like, I can:
+- Propose a brief technical approach tailored to your document types, or
+- Put together a small proof of concept using a sample PDF to show extraction accuracy and output format
+
+
+
+Happy to take this one step at a time.
+
+
+
+Best,
+Nemanja
+
+MR
+Matt Rappoport
+12:12 PM
+that would be helpful if you can put that together. Thank you!
+
+Nemanja Tanaskovic
+12:12 PM
+On it!
+
+MR
+Matt Rappoport
+12:13 PM
+Let me know if you have any questions or need anything further
+
+Nemanja Tanaskovic
+12:14 PM
+Will do, thanks
