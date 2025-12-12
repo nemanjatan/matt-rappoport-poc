@@ -1,0 +1,45 @@
+{
+  "seller": {
+    "seller_name": "Passanante\u2019s Home Food Service",
+    "seller_address": "[DIT SALES SLIP 1901 Farragut Ave. OME SOLICITATION) Bristol, PA 19007",
+    "seller_phone": "800-772-7786"
+  },
+  "buyer": {
+    "buyer_name": "sran Hora bors heats bhraters",
+    "buyer_address": "Sto Boley s~ (Qt Seo",
+    "buyer_phone": "",
+    "co_buyer_name": "",
+    "co_buyer_address": "",
+    "co_buyer_phone": ""
+  },
+  "product": {
+    "quantity": null,
+    "items": "Appliances (OCR: pa BOD we ners)",
+    "make_model": "| Platine Coutawe ( Cot les"
+  },
+  "financial": {
+    "apr_percentage": 2.0,
+    "finance_charge": 3667.22,
+    "amount_financed": 699.0,
+    "total_of_payments": 1.0,
+    "total_sales_price": null
+  },
+  "payment": {
+    "number_of_payments": null,
+    "payment_amount": 227.0,
+    "payment_frequency": "Monthly, AFTER beginning DELIVERY 30 DAYS"
+  },
+  "itemization": {
+    "cash_price": 3.0,
+    "down_payment": 0.0,
+    "unpaid_balance": 3.0,
+    "amounts_paid_to_others": 0.0,
+    "itemized_amount_financed": 0.0
+  },
+  "metadata": {
+    "source_file": "IMG_1805.png",
+    "extraction_date": "2025-12-12T13:12:23.622599",
+    "ocr_engine": "Tesseract",
+    "poc_version": "1.0"
+  }
+}
