@@ -5,3 +5,6 @@ openpyxl
 pytest
 opencv-python
 numpy
+openai
+google-generativeai
+python-dotenv
